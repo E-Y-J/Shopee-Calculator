@@ -1,0 +1,4 @@
+const myInterval = setInterval(scrollDown, 1000);
+function scrollDown(){
+	window.scrollTo(0, document.body.scrollHeight)
+}

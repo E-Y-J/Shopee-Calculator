@@ -1,0 +1,9 @@
+clearInterval(myInterval)
+
+let elements = document.getElementsByClassName('TDMlX1')
+let sum = 0
+for(let  i = 0; i < elements.length; i++){
+    sum += parseFloat(elements[i].innerText.replace(/\₱|,/g,''))
+}
+
+console.log("totalSpend = " + sum)
