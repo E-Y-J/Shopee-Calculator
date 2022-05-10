@@ -1,0 +1,14 @@
+{
+    "name": "Shopee Calculator",
+    "version": "1.0.0",
+    "description": "Shopee Calculator using shopee's api",
+    "icons": {"48": "cal48.png"},
+    "manifest_version": 3,
+    "author": "Ellijah Jimenez",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Shopee Calculator"
+    },
+    "host_permissions": [ "*://shopee.ph/*" ],
+    "permissions": [ "cookies" ]
+}
