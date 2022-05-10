@@ -18,4 +18,4 @@ Use Shopee's API to retrieve purchases made.
 	Click loadunpacked and choose folder 'googleExtension'
 	
 ![1](https://user-images.githubusercontent.com/47263311/167608176-8733f99a-98d2-44d5-84f4-9c018664f310.png)
-	
+![3](https://user-images.githubusercontent.com/47263311/167608767-8fe500da-e97c-4f4c-80c6-869e87800034.PNG)
