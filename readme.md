@@ -2,6 +2,12 @@
 
 Calculator for Shopee purchases
 
+### Chrome webstore 
+https://chrome.google.com/webstore/detail/shopee-calculator/hdjidjbnncmiecaaooecpadhpikfbeli/related
+
+### Microsoft edge add-ons
+https://microsoftedge.microsoft.com/addons/detail/shopee-calculator/lmppaclgnninojocanhceibedbpgjcen
+
 ### Manual
 Manually traverse the webpage using js and compute by finding all similar elements
 
